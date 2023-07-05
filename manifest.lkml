@@ -12,3 +12,9 @@ visualization: {
   label: "Beeswax Sankey Demo "
   file: "sankey_v2.js"
 }
+
+visualization: {
+  id: "test4-id"
+  label: "Beeswax Sankey Demo Diego "
+  file: "sankey_v2_diego.js"
+}
